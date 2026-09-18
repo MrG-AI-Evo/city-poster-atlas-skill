@@ -14,7 +14,15 @@
 
 ## 安装
 
-把本仓库中的 `city-poster-atlas` 文件夹复制到你的 Codex Skills 目录，或直接让支持本地工作区的 AI 工具读取该文件夹中的 `SKILL.md`。
+仓库地址：<https://github.com/MrG-AI-Evo/city-poster-atlas-skill>
+
+把本仓库中的 `city-poster-atlas` 文件夹复制到你的 Codex Skills 目录，或直接让支持本地工作区的 AI 工具读取该文件夹中的 `SKILL.md`。安装目录名为 `city-poster-atlas`。
+
+可直接把下面这段话发送给支持本地工作区的 AI 工具：
+
+```text
+请从 https://github.com/MrG-AI-Evo/city-poster-atlas-skill 安装 Skill，Skill 路径为 city-poster-atlas，安装名为 city-poster-atlas。
+```
 
 例如，在对话中调用：
 
