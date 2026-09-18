@@ -1,0 +1,7 @@
+interface:
+  display_name: "城市海报图鉴"
+  short_description: "把真实地点变成水彩拼贴旅行海报"
+  default_prompt: "Use $city-poster-atlas to create a vertical watercolor collage travel poster for a city or destination."
+
+policy:
+  allow_implicit_invocation: true
